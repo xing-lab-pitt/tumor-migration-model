@@ -1,0 +1,33 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	DUSP1	DUSP1	dual specificity phosphatase 1 [Source:HGNC Symbol;Acc:HGNC:3064]	13	3.799999952316284	-0.0031097035	No	
+row_1	DUSP10	DUSP10	dual specificity phosphatase 10 [Source:HGNC Symbol;Acc:HGNC:3065]	15	3.5999999046325684	0.035242762	No	
+row_2	EFNA1	EFNA1	ephrin A1 [Source:HGNC Symbol;Acc:HGNC:3221]	16	3.5199999809265137	0.076311484	No	
+row_3	BAIAP2	BAIAP2	BAR/IMD domain containing adaptor protein 2 [Source:HGNC Symbol;Acc:HGNC:947]	24	3.2799999713897705	0.08903262	No	
+row_4	CORO1C	CORO1C	coronin 1C [Source:HGNC Symbol;Acc:HGNC:2254]	25	3.2799999713897705	0.1273012	No	
+row_5	HES1	HES1	hes family bHLH transcription factor 1 [Source:HGNC Symbol;Acc:HGNC:5192]	35	3.0999999046325684	0.13062295	No	
+row_6	FMN1	FMN1	formin 1 [Source:HGNC Symbol;Acc:HGNC:3768]	44	2.8399999141693115	0.13456087	No	
+row_7	GAS6	GAS6	growth arrest specific 6 [Source:HGNC Symbol;Acc:HGNC:4168]	46	2.809999942779541	0.1636962	No	
+row_8	GPNMB	GPNMB	glycoprotein nmb [Source:HGNC Symbol;Acc:HGNC:4462]	96	2.3299999237060547	0.012048783	No	
+row_9	SPINT2	SPINT2	"serine peptidase inhibitor, Kunitz type 2 [Source:HGNC Symbol;Acc:HGNC:11247]"	100	2.319999933242798	0.028167896	No	
+row_10	BCL2L11	BCL2L11	BCL2 like 11 [Source:HGNC Symbol;Acc:HGNC:994]	103	2.299999952316284	0.0477033	No	
+row_11	KLF4	KLF4	Kruppel like factor 4 [Source:HGNC Symbol;Acc:HGNC:6348]	105	2.299999952316284	0.07088834	No	
+row_12	STX3	STX3	syntaxin 3 [Source:HGNC Symbol;Acc:HGNC:11438]	141	2.109999895095825	-0.03223099	No	
+row_13	ZFP36L1	ZFP36L1	ZFP36 ring finger protein like 1 [Source:HGNC Symbol;Acc:HGNC:1107]	162	2.059999942779541	-0.081189156	No	
+row_14	DAPK3	DAPK3	death associated protein kinase 3 [Source:HGNC Symbol;Acc:HGNC:2676]	168	2.0399999618530273	-0.07563613	No	
+row_15	STX4	STX4	syntaxin 4 [Source:HGNC Symbol;Acc:HGNC:11439]	186	2.0	-0.11434543	No	
+row_16	PARD3	PARD3	par-3 family cell polarity regulator [Source:HGNC Symbol;Acc:HGNC:16051]	207	-2.049999952316284	-0.16342027	No	
+row_17	ATM	ATM	ATM serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:795]	221	-2.0999999046325684	-0.1863643	No	
+row_18	MYH10	MYH10	myosin heavy chain 10 [Source:HGNC Symbol;Acc:HGNC:7568]	226	-2.109999895095825	-0.17634495	No	
+row_19	KIF14	KIF14	kinesin family member 14 [Source:HGNC Symbol;Acc:HGNC:19181]	241	-2.1700000762939453	-0.2021219	Yes	
+row_20	KITLG	KITLG	KIT ligand [Source:HGNC Symbol;Acc:HGNC:6343]	242	-2.1700000762939453	-0.17680396	Yes	
+row_21	DST	DST	dystonin [Source:HGNC Symbol;Acc:HGNC:1090]	254	-2.25	-0.19069864	Yes	
+row_22	APC	APC	APC regulator of WNT signaling pathway [Source:HGNC Symbol;Acc:HGNC:583]	259	-2.299999952316284	-0.1784625	Yes	
+row_23	SCGB1A1	SCGB1A1	secretoglobin family 1A member 1 [Source:HGNC Symbol;Acc:HGNC:12523]	268	-2.390000104904175	-0.17977485	Yes	
+row_24	CDH10	CDH10	cadherin 10 [Source:HGNC Symbol;Acc:HGNC:1749]	277	-2.5	-0.1798038	Yes	
+row_25	COL1A1	COL1A1	collagen type I alpha 1 chain [Source:HGNC Symbol;Acc:HGNC:2197]	281	-2.569999933242798	-0.16076788	Yes	
+row_26	RND3	RND3	Rho family GTPase 3 [Source:HGNC Symbol;Acc:HGNC:671]	285	-2.740000009536743	-0.13974853	Yes	
+row_27	SAA1	SAA1	serum amyloid A1 [Source:HGNC Symbol;Acc:HGNC:10513]	286	-2.759999990463257	-0.10754691	Yes	
+row_28	DSP	DSP	desmoplakin [Source:HGNC Symbol;Acc:HGNC:3052]	291	-2.990000009536743	-0.08726037	Yes	
+row_29	COL12A1	COL12A1	collagen type XII alpha 1 chain [Source:HGNC Symbol;Acc:HGNC:2188]	295	-3.0399999618530273	-0.06274084	Yes	
+row_30	VTCN1	VTCN1	V-set domain containing T cell activation inhibitor 1 [Source:HGNC Symbol;Acc:HGNC:28873]	299	-3.430000066757202	-0.033671074	Yes	
+row_31	ACTB	ACTB	actin beta [Source:HGNC Symbol;Acc:HGNC:132]	305	-4.449999809265137	1.1641532E-8	Yes	

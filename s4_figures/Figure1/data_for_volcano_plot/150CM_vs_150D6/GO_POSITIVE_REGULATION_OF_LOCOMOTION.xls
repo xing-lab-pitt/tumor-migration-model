@@ -1,0 +1,18 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	JUN	JUN	"Jun proto-oncogene, AP-1 transcription factor subunit [Source:HGNC Symbol;Acc:HGNC:6204]"	4	4.46999979019165	0.09796507	No	
+row_1	GAS6	GAS6	growth arrest specific 6 [Source:HGNC Symbol;Acc:HGNC:4168]	46	2.809999942779541	0.026381696	No	
+row_2	GPNMB	GPNMB	glycoprotein nmb [Source:HGNC Symbol;Acc:HGNC:4462]	96	2.3299999237060547	-0.084889345	No	
+row_3	STX3	STX3	syntaxin 3 [Source:HGNC Symbol;Acc:HGNC:11438]	141	2.109999895095825	-0.1843621	Yes	
+row_4	AKT2	AKT2	AKT serine/threonine kinase 2 [Source:HGNC Symbol;Acc:HGNC:392]	147	2.0799999237060547	-0.14963713	Yes	
+row_5	HSPA5	HSPA5	heat shock protein family A (Hsp70) member 5 [Source:HGNC Symbol;Acc:HGNC:5238]	151	2.069999933242798	-0.10824186	Yes	
+row_6	AGT	AGT	angiotensinogen [Source:HGNC Symbol;Acc:HGNC:333]	163	2.049999952316284	-0.09502851	Yes	
+row_7	DAPK3	DAPK3	death associated protein kinase 3 [Source:HGNC Symbol;Acc:HGNC:2676]	168	2.0399999618530273	-0.057843827	Yes	
+row_8	STX4	STX4	syntaxin 4 [Source:HGNC Symbol;Acc:HGNC:11439]	186	2.0	-0.066642344	Yes	
+row_9	KIF20B	KIF20B	kinesin family member 20B [Source:HGNC Symbol;Acc:HGNC:7212]	197	-2.0299999713897705	-0.050469037	Yes	
+row_10	SYNE2	SYNE2	spectrin repeat containing nuclear envelope protein 2 [Source:HGNC Symbol;Acc:HGNC:17084]	198	-2.0299999713897705	3.0634832E-4	Yes	
+row_11	ATM	ATM	ATM serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:795]	221	-2.0999999046325684	-0.02329196	Yes	
+row_12	TGFBR1	TGFBR1	transforming growth factor beta receptor 1 [Source:HGNC Symbol;Acc:HGNC:11772]	235	-2.130000114440918	-0.014998017	Yes	
+row_13	KITLG	KITLG	KIT ligand [Source:HGNC Symbol;Acc:HGNC:6343]	242	-2.1700000762939453	0.018517878	Yes	
+row_14	APC	APC	APC regulator of WNT signaling pathway [Source:HGNC Symbol;Acc:HGNC:583]	259	-2.299999952316284	0.020683318	Yes	
+row_15	COL1A1	COL1A1	collagen type I alpha 1 chain [Source:HGNC Symbol;Acc:HGNC:2197]	281	-2.569999933242798	0.012301097	Yes	
+row_16	PLK2	PLK2	polo like kinase 2 [Source:HGNC Symbol;Acc:HGNC:19699]	284	-2.690000057220459	0.07266433	Yes	

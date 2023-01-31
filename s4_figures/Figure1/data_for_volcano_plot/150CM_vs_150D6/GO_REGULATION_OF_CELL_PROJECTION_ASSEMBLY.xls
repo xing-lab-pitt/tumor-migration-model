@@ -1,0 +1,6 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CORO1C	CORO1C	coronin 1C [Source:HGNC Symbol;Acc:HGNC:2254]	25	3.2799999713897705	0.1951454	No	
+row_1	SYNE2	SYNE2	spectrin repeat containing nuclear envelope protein 2 [Source:HGNC Symbol;Acc:HGNC:17084]	198	-2.0299999713897705	-0.20410334	Yes	
+row_2	AUTS2	AUTS2	activator of transcription and developmental regulator AUTS2 [Source:HGNC Symbol;Acc:HGNC:14262]	203	-2.049999952316284	-0.043516207	Yes	
+row_3	TGFBR1	TGFBR1	transforming growth factor beta receptor 1 [Source:HGNC Symbol;Acc:HGNC:11772]	235	-2.130000114440918	0.03415535	Yes	
+row_4	APC	APC	APC regulator of WNT signaling pathway [Source:HGNC Symbol;Acc:HGNC:583]	259	-2.299999952316284	0.15282397	Yes	

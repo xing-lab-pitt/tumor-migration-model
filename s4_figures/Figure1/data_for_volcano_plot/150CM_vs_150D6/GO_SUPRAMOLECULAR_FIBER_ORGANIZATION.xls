@@ -1,0 +1,24 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	HSP90B1	HSP90B1	heat shock protein 90 beta family member 1 [Source:HGNC Symbol;Acc:HGNC:12028]	5	4.309999942779541	0.0526421	Yes	
+row_1	LDLR	LDLR	low density lipoprotein receptor [Source:HGNC Symbol;Acc:HGNC:6547]	10	3.9000000953674316	0.102129355	Yes	
+row_2	HSPA1A	HSPA1A	heat shock protein family A (Hsp70) member 1A [Source:HGNC Symbol;Acc:HGNC:5232]	21	3.3299999237060547	0.12111666	Yes	
+row_3	BAIAP2	BAIAP2	BAR/IMD domain containing adaptor protein 2 [Source:HGNC Symbol;Acc:HGNC:947]	24	3.2799999713897705	0.16755685	Yes	
+row_4	CORO1C	CORO1C	coronin 1C [Source:HGNC Symbol;Acc:HGNC:2254]	25	3.2799999713897705	0.2210642	Yes	
+row_5	FMN1	FMN1	formin 1 [Source:HGNC Symbol;Acc:HGNC:3768]	44	2.8399999141693115	0.20378947	Yes	
+row_6	HSPA1B	HSPA1B	heat shock protein family A (Hsp70) member 1B [Source:HGNC Symbol;Acc:HGNC:5233]	59	2.640000104904175	0.19738638	Yes	
+row_7	SERPINH1	SERPINH1	serpin family H member 1 [Source:HGNC Symbol;Acc:HGNC:1546]	60	2.640000104904175	0.24045327	Yes	
+row_8	INPP5J	INPP5J	inositol polyphosphate-5-phosphatase J [Source:HGNC Symbol;Acc:HGNC:8956]	152	2.069999933242798	-0.047333155	No	
+row_9	KLHL24	KLHL24	kelch like family member 24 [Source:HGNC Symbol;Acc:HGNC:25947]	156	2.059999942779541	-0.024328647	No	
+row_10	DAPK3	DAPK3	death associated protein kinase 3 [Source:HGNC Symbol;Acc:HGNC:2676]	168	2.0399999618530273	-0.029918952	No	
+row_11	MAP1S	MAP1S	microtubule associated protein 1S [Source:HGNC Symbol;Acc:HGNC:15715]	169	2.0399999618530273	0.003360001	No	
+row_12	PLOD1	PLOD1	"procollagen-lysine,2-oxoglutarate 5-dioxygenase 1 [Source:HGNC Symbol;Acc:HGNC:9081]"	210	-2.059999942779541	-0.104377545	No	
+row_13	MYH10	MYH10	myosin heavy chain 10 [Source:HGNC Symbol;Acc:HGNC:7568]	226	-2.109999895095825	-0.1229602	No	
+row_14	TGFBR1	TGFBR1	transforming growth factor beta receptor 1 [Source:HGNC Symbol;Acc:HGNC:11772]	235	-2.130000114440918	-0.11648161	No	
+row_15	DST	DST	dystonin [Source:HGNC Symbol;Acc:HGNC:1090]	254	-2.25	-0.14338112	No	
+row_16	THSD4	THSD4	thrombospondin type 1 domain containing 4 [Source:HGNC Symbol;Acc:HGNC:25835]	255	-2.25	-0.1066764	No	
+row_17	APC	APC	APC regulator of WNT signaling pathway [Source:HGNC Symbol;Acc:HGNC:583]	259	-2.299999952316284	-0.07975672	No	
+row_18	FKBP1A	FKBP1A	FKBP prolyl isomerase 1A [Source:HGNC Symbol;Acc:HGNC:3711]	271	-2.430000066757202	-0.07898487	No	
+row_19	COL1A1	COL1A1	collagen type I alpha 1 chain [Source:HGNC Symbol;Acc:HGNC:2197]	281	-2.569999933242798	-0.06886204	No	
+row_20	RND3	RND3	Rho family GTPase 3 [Source:HGNC Symbol;Acc:HGNC:671]	285	-2.740000009536743	-0.034764547	No	
+row_21	DSP	DSP	desmoplakin [Source:HGNC Symbol;Acc:HGNC:3052]	291	-2.990000009536743	-0.0036558867	No	
+row_22	COL12A1	COL12A1	collagen type XII alpha 1 chain [Source:HGNC Symbol;Acc:HGNC:2188]	295	-3.0399999618530273	0.03533557	No	

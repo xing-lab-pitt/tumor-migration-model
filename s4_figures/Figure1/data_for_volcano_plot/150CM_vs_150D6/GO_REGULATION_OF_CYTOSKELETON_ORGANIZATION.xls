@@ -1,0 +1,13 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	BAIAP2	BAIAP2	BAR/IMD domain containing adaptor protein 2 [Source:HGNC Symbol;Acc:HGNC:947]	24	1.7200000286102295	0.02798676	No	
+row_1	CEP85	CEP85	centrosomal protein 85 [Source:HGNC Symbol;Acc:HGNC:25309]	35	1.6299999952316284	0.09756377	No	
+row_2	BST2	BST2	bone marrow stromal cell antigen 2 [Source:HGNC Symbol;Acc:HGNC:1119]	89	1.25	-0.0022258644	No	
+row_3	TUBB4A	TUBB4A	tubulin beta 4A class IVa [Source:HGNC Symbol;Acc:HGNC:20774]	104	1.2000000476837158	0.026570681	No	
+row_4	INPP5J	INPP5J	inositol polyphosphate-5-phosphatase J [Source:HGNC Symbol;Acc:HGNC:8956]	160	1.0399999618530273	-0.09329214	No	
+row_5	MAP1S	MAP1S	microtubule associated protein 1S [Source:HGNC Symbol;Acc:HGNC:15715]	177	1.0199999809265137	-0.08266643	No	
+row_6	TGFBR1	TGFBR1	transforming growth factor beta receptor 1 [Source:HGNC Symbol;Acc:HGNC:11772]	233	-1.090000033378601	-0.19935867	Yes	
+row_7	FMN1	FMN1	formin 1 [Source:HGNC Symbol;Acc:HGNC:3768]	247	-1.1299999952316284	-0.17162256	Yes	
+row_8	APC	APC	APC regulator of WNT signaling pathway [Source:HGNC Symbol;Acc:HGNC:583]	263	-1.2100000381469727	-0.14557028	Yes	
+row_9	PLK2	PLK2	polo like kinase 2 [Source:HGNC Symbol;Acc:HGNC:19699]	286	-1.4299999475479126	-0.1292161	Yes	
+row_10	RND3	RND3	Rho family GTPase 3 [Source:HGNC Symbol;Acc:HGNC:671]	287	-1.4500000476837158	-0.037269384	Yes	
+row_11	TRIM37	TRIM37	tripartite motif containing 37 [Source:HGNC Symbol;Acc:HGNC:7523]	296	-1.600000023841858	0.03716205	Yes	

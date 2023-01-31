@@ -1,0 +1,12 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	GAS6	GAS6	growth arrest specific 6 [Source:HGNC Symbol;Acc:HGNC:4168]	46	1.4900000095367432	-0.045964014	No	
+row_1	SERPINH1	SERPINH1	serpin family H member 1 [Source:HGNC Symbol;Acc:HGNC:1546]	59	1.399999976158142	0.015971133	No	
+row_2	SPINT2	SPINT2	"serine peptidase inhibitor, Kunitz type 2 [Source:HGNC Symbol;Acc:HGNC:11247]"	98	1.2200000286102295	-0.022793695	No	
+row_3	FURIN	FURIN	"furin, paired basic amino acid cleaving enzyme [Source:HGNC Symbol;Acc:HGNC:8568]"	141	1.0800000429153442	-0.08526046	No	
+row_4	AGT	AGT	angiotensinogen [Source:HGNC Symbol;Acc:HGNC:333]	174	1.0299999713897705	-0.11771216	No	
+row_5	PLOD1	PLOD1	"procollagen-lysine,2-oxoglutarate 5-dioxygenase 1 [Source:HGNC Symbol;Acc:HGNC:9081]"	210	-1.0399999618530273	-0.15953389	Yes	
+row_6	TGFBR1	TGFBR1	transforming growth factor beta receptor 1 [Source:HGNC Symbol;Acc:HGNC:11772]	233	-1.090000033378601	-0.15392959	Yes	
+row_7	THSD4	THSD4	thrombospondin type 1 domain containing 4 [Source:HGNC Symbol;Acc:HGNC:25835]	256	-1.1699999570846558	-0.14247735	Yes	
+row_8	MMP16	MMP16	matrix metallopeptidase 16 [Source:HGNC Symbol;Acc:HGNC:7162]	260	-1.2000000476837158	-0.06485905	Yes	
+row_9	COL1A1	COL1A1	collagen type I alpha 1 chain [Source:HGNC Symbol;Acc:HGNC:2197]	282	-1.3600000143051147	-0.036150903	Yes	
+row_10	COL12A1	COL12A1	collagen type XII alpha 1 chain [Source:HGNC Symbol;Acc:HGNC:2188]	297	-1.600000023841858	0.033670124	Yes	

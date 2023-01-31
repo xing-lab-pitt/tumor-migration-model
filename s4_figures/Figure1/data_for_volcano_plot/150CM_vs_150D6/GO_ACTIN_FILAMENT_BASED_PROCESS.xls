@@ -1,0 +1,16 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	HSP90B1	HSP90B1	heat shock protein 90 beta family member 1 [Source:HGNC Symbol;Acc:HGNC:12028]	5	4.309999942779541	0.08717621	Yes	
+row_1	BAIAP2	BAIAP2	BAR/IMD domain containing adaptor protein 2 [Source:HGNC Symbol;Acc:HGNC:947]	24	3.2799999713897705	0.10473943	Yes	
+row_2	CORO1C	CORO1C	coronin 1C [Source:HGNC Symbol;Acc:HGNC:2254]	25	3.2799999713897705	0.18415831	Yes	
+row_3	FMN1	FMN1	formin 1 [Source:HGNC Symbol;Acc:HGNC:3768]	44	2.8399999141693115	0.19106777	Yes	
+row_4	TRPM4	TRPM4	transient receptor potential cation channel subfamily M member 4 [Source:HGNC Symbol;Acc:HGNC:17993]	81	2.440000057220459	0.12643632	No	
+row_5	BST2	BST2	bone marrow stromal cell antigen 2 [Source:HGNC Symbol;Acc:HGNC:1119]	88	2.369999885559082	0.16320275	No	
+row_6	DAPK3	DAPK3	death associated protein kinase 3 [Source:HGNC Symbol;Acc:HGNC:2676]	168	2.0399999618530273	-0.05888025	No	
+row_7	SYNE2	SYNE2	spectrin repeat containing nuclear envelope protein 2 [Source:HGNC Symbol;Acc:HGNC:17084]	198	-2.0299999713897705	-0.109384075	No	
+row_8	AUTS2	AUTS2	activator of transcription and developmental regulator AUTS2 [Source:HGNC Symbol;Acc:HGNC:14262]	203	-2.049999952316284	-0.073492974	No	
+row_9	MYH10	MYH10	myosin heavy chain 10 [Source:HGNC Symbol;Acc:HGNC:7568]	226	-2.109999895095825	-0.09800477	No	
+row_10	TGFBR1	TGFBR1	transforming growth factor beta receptor 1 [Source:HGNC Symbol;Acc:HGNC:11772]	235	-2.130000114440918	-0.07392233	No	
+row_11	TBCK	TBCK	TBC1 domain containing kinase [Source:HGNC Symbol;Acc:HGNC:28261]	253	-2.240000009536743	-0.078104295	No	
+row_12	RND3	RND3	Rho family GTPase 3 [Source:HGNC Symbol;Acc:HGNC:671]	285	-2.740000009536743	-0.11828968	No	
+row_13	DSP	DSP	desmoplakin [Source:HGNC Symbol;Acc:HGNC:3052]	291	-2.990000009536743	-0.06307472	No	
+row_14	ACTB	ACTB	actin beta [Source:HGNC Symbol;Acc:HGNC:132]	305	-4.449999809265137	-8.8941306E-8	No	

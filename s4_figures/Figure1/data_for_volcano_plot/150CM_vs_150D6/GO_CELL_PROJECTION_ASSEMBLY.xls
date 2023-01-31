@@ -1,0 +1,37 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ADM	ADM	adrenomedullin [Source:HGNC Symbol;Acc:HGNC:259]	3	4.489999771118164	0.03673119	Yes	
+row_1	JUN	JUN	"Jun proto-oncogene, AP-1 transcription factor subunit [Source:HGNC Symbol;Acc:HGNC:6204]"	4	4.46999979019165	0.08436038	Yes	
+row_2	ITM2C	ITM2C	integral membrane protein 2C [Source:HGNC Symbol;Acc:HGNC:6175]	11	3.819999933242798	0.10284141	Yes	
+row_3	EFNA1	EFNA1	ephrin A1 [Source:HGNC Symbol;Acc:HGNC:3221]	16	3.5199999809265137	0.12553325	Yes	
+row_4	EMP3	EMP3	epithelial membrane protein 3 [Source:HGNC Symbol;Acc:HGNC:3335]	23	3.319999933242798	0.13868663	Yes	
+row_5	BAIAP2	BAIAP2	BAR/IMD domain containing adaptor protein 2 [Source:HGNC Symbol;Acc:HGNC:947]	24	3.2799999713897705	0.17363602	Yes	
+row_6	CORO1C	CORO1C	coronin 1C [Source:HGNC Symbol;Acc:HGNC:2254]	25	3.2799999713897705	0.20858541	Yes	
+row_7	HES1	HES1	hes family bHLH transcription factor 1 [Source:HGNC Symbol;Acc:HGNC:5192]	35	3.0999999046325684	0.20828351	No	
+row_8	TUBA4A	TUBA4A	tubulin alpha 4a [Source:HGNC Symbol;Acc:HGNC:12407]	45	2.8299999237060547	0.20510468	No	
+row_9	MYLIP	MYLIP	myosin regulatory light chain interacting protein [Source:HGNC Symbol;Acc:HGNC:21155]	57	2.6700000762939453	0.19281359	No	
+row_10	EFNA3	EFNA3	ephrin A3 [Source:HGNC Symbol;Acc:HGNC:3223]	69	2.569999933242798	0.17945698	No	
+row_11	PDCL	PDCL	phosducin like [Source:HGNC Symbol;Acc:HGNC:8770]	86	2.4000000953674316	0.14577045	No	
+row_12	CCNO	CCNO	cyclin O [Source:HGNC Symbol;Acc:HGNC:18576]	89	2.369999885559082	0.16361609	No	
+row_13	ARID1B	ARID1B	AT-rich interaction domain 1B [Source:HGNC Symbol;Acc:HGNC:18040]	98	2.319999933242798	0.15870677	No	
+row_14	KLF4	KLF4	Kruppel like factor 4 [Source:HGNC Symbol;Acc:HGNC:6348]	105	2.299999952316284	0.16099174	No	
+row_15	SF3A2	SF3A2	splicing factor 3a subunit 2 [Source:HGNC Symbol;Acc:HGNC:10766]	119	2.2100000381469727	0.1363918	No	
+row_16	STX3	STX3	syntaxin 3 [Source:HGNC Symbol;Acc:HGNC:11438]	141	2.109999895095825	0.081096716	No	
+row_17	HSPA5	HSPA5	heat shock protein family A (Hsp70) member 5 [Source:HGNC Symbol;Acc:HGNC:5238]	151	2.069999933242798	0.06981985	No	
+row_18	INPP5J	INPP5J	inositol polyphosphate-5-phosphatase J [Source:HGNC Symbol;Acc:HGNC:8956]	152	2.069999933242798	0.09187633	No	
+row_19	AGT	AGT	angiotensinogen [Source:HGNC Symbol;Acc:HGNC:333]	163	2.049999952316284	0.07668266	No	
+row_20	MAP1S	MAP1S	microtubule associated protein 1S [Source:HGNC Symbol;Acc:HGNC:15715]	169	2.0399999618530273	0.07990095	No	
+row_21	PTCH1	PTCH1	patched 1 [Source:HGNC Symbol;Acc:HGNC:9585]	172	2.0399999618530273	0.09423036	No	
+row_22	UCHL1	UCHL1	ubiquitin C-terminal hydrolase L1 [Source:HGNC Symbol;Acc:HGNC:12513]	187	2.0	0.06368911	No	
+row_23	KIF20B	KIF20B	kinesin family member 20B [Source:HGNC Symbol;Acc:HGNC:7212]	197	-2.0299999713897705	0.05198604	No	
+row_24	SYNE2	SYNE2	spectrin repeat containing nuclear envelope protein 2 [Source:HGNC Symbol;Acc:HGNC:17084]	198	-2.0299999713897705	0.0736163	No	
+row_25	AUTS2	AUTS2	activator of transcription and developmental regulator AUTS2 [Source:HGNC Symbol;Acc:HGNC:14262]	203	-2.049999952316284	0.08064485	No	
+row_26	PARD3	PARD3	par-3 family cell polarity regulator [Source:HGNC Symbol;Acc:HGNC:16051]	207	-2.049999952316284	0.09137711	No	
+row_27	CEP290	CEP290	centrosomal protein 290 [Source:HGNC Symbol;Acc:HGNC:29021]	214	-2.069999933242798	0.091211356	No	
+row_28	CEP72	CEP72	centrosomal protein 72 [Source:HGNC Symbol;Acc:HGNC:25547]	215	-2.069999933242798	0.11326783	No	
+row_29	MYH10	MYH10	myosin heavy chain 10 [Source:HGNC Symbol;Acc:HGNC:7568]	226	-2.109999895095825	0.09871348	No	
+row_30	TGFBR1	TGFBR1	transforming growth factor beta receptor 1 [Source:HGNC Symbol;Acc:HGNC:11772]	235	-2.130000114440918	0.09177964	No	
+row_31	TRPC6	TRPC6	transient receptor potential cation channel subfamily C member 6 [Source:HGNC Symbol;Acc:HGNC:12338]	250	-2.2200000286102295	0.06358256	No	
+row_32	APC	APC	APC regulator of WNT signaling pathway [Source:HGNC Symbol;Acc:HGNC:583]	259	-2.299999952316284	0.058460124	No	
+row_33	CNTF	CNTF	ciliary neurotrophic factor [Source:HGNC Symbol;Acc:HGNC:2169]	262	-2.319999933242798	0.075773016	No	
+row_34	PLK2	PLK2	polo like kinase 2 [Source:HGNC Symbol;Acc:HGNC:19699]	284	-2.690000057220459	0.026658002	No	
+row_35	ACTB	ACTB	actin beta [Source:HGNC Symbol;Acc:HGNC:132]	305	-4.449999809265137	1.5832484E-8	No	

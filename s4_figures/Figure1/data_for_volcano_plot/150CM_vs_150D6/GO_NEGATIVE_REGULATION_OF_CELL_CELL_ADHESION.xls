@@ -1,0 +1,6 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	GPNMB	GPNMB	glycoprotein nmb [Source:HGNC Symbol;Acc:HGNC:4462]	96	2.3299999237060547	-0.13647799	Yes	
+row_1	SPINT2	SPINT2	"serine peptidase inhibitor, Kunitz type 2 [Source:HGNC Symbol;Acc:HGNC:11247]"	100	2.319999933242798	0.035231024	Yes	
+row_2	KLF4	KLF4	Kruppel like factor 4 [Source:HGNC Symbol;Acc:HGNC:6348]	105	2.299999952316284	0.20205161	Yes	
+row_3	SCGB1A1	SCGB1A1	secretoglobin family 1A member 1 [Source:HGNC Symbol;Acc:HGNC:12523]	268	-2.390000104904175	-0.14899695	No	
+row_4	VTCN1	VTCN1	V-set domain containing T cell activation inhibitor 1 [Source:HGNC Symbol;Acc:HGNC:28873]	299	-3.430000066757202	0.019933533	No	

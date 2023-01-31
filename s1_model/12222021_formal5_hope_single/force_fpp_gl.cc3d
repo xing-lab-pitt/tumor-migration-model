@@ -1,0 +1,5 @@
+<Simulation version="4.2.5">
+   <XMLScript Type="XMLScript">Simulation/fpp_polarity_force.xml</XMLScript>
+   <PythonScript Type="PythonScript">Simulation/fpp_polarity_force.py</PythonScript>
+   <Resource Type="Python">Simulation/fpp_polarity_force_Steppables.py</Resource>
+</Simulation>

@@ -1,0 +1,21 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	LDLR	LDLR	low density lipoprotein receptor [Source:HGNC Symbol;Acc:HGNC:6547]	10	3.9000000953674316	0.040150534	Yes	
+row_1	HSPA1A	HSPA1A	heat shock protein family A (Hsp70) member 1A [Source:HGNC Symbol;Acc:HGNC:5232]	21	3.3299999237060547	0.06932264	Yes	
+row_2	BAIAP2	BAIAP2	BAR/IMD domain containing adaptor protein 2 [Source:HGNC Symbol;Acc:HGNC:947]	24	3.2799999713897705	0.12550375	Yes	
+row_3	CORO1C	CORO1C	coronin 1C [Source:HGNC Symbol;Acc:HGNC:2254]	25	3.2799999713897705	0.18867786	Yes	
+row_4	LMNA	LMNA	lamin A/C [Source:HGNC Symbol;Acc:HGNC:6636]	38	2.950000047683716	0.203538	Yes	
+row_5	GAS6	GAS6	growth arrest specific 6 [Source:HGNC Symbol;Acc:HGNC:4168]	46	2.809999942779541	0.2331842	Yes	
+row_6	BCL2L11	BCL2L11	BCL2 like 11 [Source:HGNC Symbol;Acc:HGNC:994]	103	2.299999952316284	0.08167893	No	
+row_7	NAPA	NAPA	NSF attachment protein alpha [Source:HGNC Symbol;Acc:HGNC:7641]	129	2.1700000762939453	0.036061414	No	
+row_8	STX3	STX3	syntaxin 3 [Source:HGNC Symbol;Acc:HGNC:11438]	141	2.109999895095825	0.038239323	No	
+row_9	TAP1	TAP1	"transporter 1, ATP binding cassette subfamily B member [Source:HGNC Symbol;Acc:HGNC:43]"	144	2.0999999046325684	0.07169315	No	
+row_10	AKT2	AKT2	AKT serine/threonine kinase 2 [Source:HGNC Symbol;Acc:HGNC:392]	147	2.0799999237060547	0.10476178	No	
+row_11	LPIN1	LPIN1	lipin 1 [Source:HGNC Symbol;Acc:HGNC:13345]	178	2.0199999809265137	0.038772687	No	
+row_12	MYRF	MYRF	myelin regulatory factor [Source:HGNC Symbol;Acc:HGNC:1181]	184	2.0	0.059810974	No	
+row_13	STX4	STX4	syntaxin 4 [Source:HGNC Symbol;Acc:HGNC:11439]	186	2.0	0.094835274	No	
+row_14	F8	F8	coagulation factor VIII [Source:HGNC Symbol;Acc:HGNC:3546]	192	-2.0199999809265137	0.11625877	No	
+row_15	MYH10	MYH10	myosin heavy chain 10 [Source:HGNC Symbol;Acc:HGNC:7568]	226	-2.109999895095825	0.0415136	No	
+row_16	CASP8	CASP8	caspase 8 [Source:HGNC Symbol;Acc:HGNC:1509]	256	-2.2899999618530273	-0.015778683	No	
+row_17	IMMT	IMMT	inner membrane mitochondrial protein [Source:HGNC Symbol;Acc:HGNC:6047]	260	-2.299999952316284	0.018030727	No	
+row_18	ATP9B	ATP9B	ATPase phospholipid transporting 9B (putative) [Source:HGNC Symbol;Acc:HGNC:13541]	270	-2.4200000762939453	0.03317237	No	
+row_19	ACTB	ACTB	actin beta [Source:HGNC Symbol;Acc:HGNC:132]	305	-4.449999809265137	3.3527613E-8	No	

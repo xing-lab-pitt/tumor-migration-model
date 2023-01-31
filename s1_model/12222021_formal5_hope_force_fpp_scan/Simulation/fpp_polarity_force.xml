@@ -1,0 +1,139 @@
+<CompuCell3D Revision="20210612" Version="4.2.5">
+   
+   <Metadata>
+      
+      <!-- Basic properties simulation -->
+      <NumberOfProcessors>1</NumberOfProcessors>
+      <DebugOutputFrequency>10</DebugOutputFrequency>
+      <!-- <NonParallelModule Name="Potts"/> -->
+   </Metadata>
+   
+   <Potts>
+      
+      <!-- Basic properties of CPM (GGH) algorithm -->
+      <Dimensions x="256" y="256" z="1"/>
+      <Steps>500</Steps>
+      <Temperature>25.0</Temperature>
+      <NeighborOrder>2</NeighborOrder>
+   </Potts>
+   
+   <Plugin Name="CellType">
+      
+      <!-- Listing all cell types in the simulation -->
+      <CellType TypeId="0" TypeName="Medium"/>
+      <CellType TypeId="1" TypeName="cell"/>
+   </Plugin>
+   
+   <Plugin Name="Volume">
+      <VolumeEnergyParameters CellType="cell" LambdaVolume="4.0" TargetVolume="50.24"/>
+   </Plugin>
+   
+   <Plugin Name="Surface">
+      <SurfaceEnergyParameters CellType="cell" LambdaSurface="4.0" TargetSurface="25"/>
+   </Plugin>
+   
+   <Plugin Name="CenterOfMass">
+      
+      <!-- Module tracking center of mass of each cell -->
+   </Plugin>
+   
+   <Plugin Name="NeighborTracker">
+      
+      <!-- Module tracking neighboring cells of each cell -->
+   </Plugin>
+   
+   <Plugin Name="PixelTracker">
+      
+      <!-- Module tracking pixels of each cell -->
+   </Plugin>
+   
+    <Plugin Name="Contact">
+       <Energy Type1="Medium" Type2="Medium">-1.0</Energy>
+       <Energy Type1="Medium" Type2="cell">-2.0</Energy>
+       <Energy Type1="cell" Type2="cell">-6.0</Energy>
+       <NeighborOrder>4</NeighborOrder>
+    </Plugin>
+   
+   <!-- <Plugin Name="Connectivity"> -->
+   <!-- Connectivity constraint applied to each cell. Energy penalty specifies how strong the constraint is. Penalty is specified globally for each cell  -->
+   <!-- This constraint works in 2D and on square lattice only! It also requires that the <NeighborOrder> in the Potts section is 1 or 2! -->
+   <!-- For more flexible version of this plugin use ConnectivityLocalFlex where constraint penalty is specified for each cell individually using Python scripting using the following syntax -->
+   <!-- self.connectivityLocalFlexPlugin.setConnectivityStrength(cell,10000000) -->
+   <!-- <Penalty>10000000</Penalty> -->
+<!-- </Plugin> -->
+
+   
+   <Plugin Name="ExternalPotential"/>
+
+   
+   <Plugin Name="FocalPointPlasticity">
+      
+      <!-- Specification of focal point junctions -->
+      <!-- We separetely specify links between members of same cluster - InternalParameters and members of different clusters Parameters. When not using compartmental  cells comment out InternalParameters specification -->
+      <!-- To modify FPP links individually for each cell pair uncomment line below -->
+      <Local/>
+      <!-- Note that even though you may manipulate lambdaDistance, targetDistance and maxDistance using Python you still need to set activation energy from XML level -->
+      <!-- See CC3D manual for details on FPP plugin  -->
+      
+      <Parameters Type1="cell" Type2="cell">
+         <ActivationEnergy>-50</ActivationEnergy>
+         <MaxNumberOfJunctions NeighborOrder="1">4</MaxNumberOfJunctions>
+      </Parameters>
+      
+      <InternalParameters Type1="cell" Type2="cell">
+         <ActivationEnergy>-50</ActivationEnergy>
+         <MaxNumberOfJunctions NeighborOrder="1">4</MaxNumberOfJunctions>
+      </InternalParameters>
+      
+      <NeighborOrder>3</NeighborOrder>
+   </Plugin>
+   
+   <Plugin Name="Secretion">
+      
+      <!-- Specification of secretion properties of select cell types. -->
+      <!-- You may repeat Field element for each chemical field declared in the PDE solvers -->
+      <!-- Specification of secretion properties of individual cells can be done in Python -->
+      <Field Name="secretome">
+         <ConstantConcentration Type="Medium">1.0</ConstantConcentration>
+      </Field>
+   </Plugin>
+   
+   <Steppable Type="DiffusionSolverFE">
+      
+      <DiffusionField Name="secretome">
+         <DiffusionData>
+            <FieldName>secretome</FieldName>
+            <GlobalDiffusionConstant>1</GlobalDiffusionConstant>
+            <GlobalDecayConstant>0.</GlobalDecayConstant>
+            
+            <DiffusionCoefficient CellType="cell">1</DiffusionCoefficient>
+            <DecayCoefficient CellType="cell">0.</DecayCoefficient>
+         </DiffusionData>
+         
+         <SecretionData>
+            <ConstantConcentration Type="Medium">1</ConstantConcentration>
+         </SecretionData>
+         
+         <BoundaryConditions>
+         <Plane Axis="X">
+            <Periodic/>
+         </Plane>
+         <Plane Axis="Y">
+            <Periodic/>
+         </Plane>
+         </BoundaryConditions>
+      </DiffusionField>
+   </Steppable>
+   
+   <Steppable Type="BlobInitializer">
+      
+      <!-- Initial layout of cells in the form of spherical (circular in 2D) blob -->
+      <Region>
+         <Center x="128" y="128" z="0"/>
+         <Radius>33</Radius>
+         <Gap>0</Gap>
+         <Width>5</Width>
+         <Types>cell</Types>
+      </Region>
+   </Steppable>
+</CompuCell3D>

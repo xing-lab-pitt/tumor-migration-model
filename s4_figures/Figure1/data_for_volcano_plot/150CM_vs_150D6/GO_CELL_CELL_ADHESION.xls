@@ -1,0 +1,14 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	DUSP10	DUSP10	dual specificity phosphatase 10 [Source:HGNC Symbol;Acc:HGNC:3065]	15	3.5999999046325684	0.044652123	No	
+row_1	BAIAP2	BAIAP2	BAR/IMD domain containing adaptor protein 2 [Source:HGNC Symbol;Acc:HGNC:947]	24	3.2799999713897705	0.10467533	No	
+row_2	HES1	HES1	hes family bHLH transcription factor 1 [Source:HGNC Symbol;Acc:HGNC:5192]	35	3.0999999046325684	0.15308027	No	
+row_3	GAS6	GAS6	growth arrest specific 6 [Source:HGNC Symbol;Acc:HGNC:4168]	46	2.809999942779541	0.19376421	No	
+row_4	GPNMB	GPNMB	glycoprotein nmb [Source:HGNC Symbol;Acc:HGNC:4462]	96	2.3299999237060547	0.08856281	No	
+row_5	SPINT2	SPINT2	"serine peptidase inhibitor, Kunitz type 2 [Source:HGNC Symbol;Acc:HGNC:11247]"	100	2.319999933242798	0.14009175	No	
+row_6	KLF4	KLF4	Kruppel like factor 4 [Source:HGNC Symbol;Acc:HGNC:6348]	105	2.299999952316284	0.18767524	No	
+row_7	ZFP36L1	ZFP36L1	ZFP36 ring finger protein like 1 [Source:HGNC Symbol;Acc:HGNC:1107]	162	2.059999942779541	0.05139455	No	
+row_8	SCGB1A1	SCGB1A1	secretoglobin family 1A member 1 [Source:HGNC Symbol;Acc:HGNC:12523]	268	-2.390000104904175	-0.24333568	Yes	
+row_9	CDH10	CDH10	cadherin 10 [Source:HGNC Symbol;Acc:HGNC:1749]	277	-2.5	-0.20407926	Yes	
+row_10	DSP	DSP	desmoplakin [Source:HGNC Symbol;Acc:HGNC:3052]	291	-2.990000009536743	-0.16884188	Yes	
+row_11	VTCN1	VTCN1	V-set domain containing T cell activation inhibitor 1 [Source:HGNC Symbol;Acc:HGNC:28873]	299	-3.430000066757202	-0.10141209	Yes	
+row_12	ACTB	ACTB	actin beta [Source:HGNC Symbol;Acc:HGNC:132]	305	-4.449999809265137	1.8370338E-7	Yes	

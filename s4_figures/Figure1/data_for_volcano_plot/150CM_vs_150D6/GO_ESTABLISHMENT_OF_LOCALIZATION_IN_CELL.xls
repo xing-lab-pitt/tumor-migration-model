@@ -1,0 +1,16 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	DDIT3	DDIT3	DNA damage inducible transcript 3 [Source:HGNC Symbol;Acc:HGNC:2726]	0	6.53000020980835	0.16947831	Yes	
+row_1	NR1D1	NR1D1	nuclear receptor subfamily 1 group D member 1 [Source:HGNC Symbol;Acc:HGNC:7962]	51	2.740000009536743	0.06877041	No	
+row_2	WIPI1	WIPI1	"WD repeat domain, phosphoinositide interacting 1 [Source:HGNC Symbol;Acc:HGNC:25471]"	61	2.630000114440918	0.10610107	No	
+row_3	TRPM4	TRPM4	transient receptor potential cation channel subfamily M member 4 [Source:HGNC Symbol;Acc:HGNC:17993]	81	2.440000057220459	0.10413624	No	
+row_4	HMGCR	HMGCR	3-hydroxy-3-methylglutaryl-CoA reductase [Source:HGNC Symbol;Acc:HGNC:5006]	117	2.2100000381469727	0.04121922	No	
+row_5	NAPA	NAPA	NSF attachment protein alpha [Source:HGNC Symbol;Acc:HGNC:7641]	129	2.1700000762939453	0.05973828	No	
+row_6	RAB11B	RAB11B	"RAB11B, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9761]"	185	2.0	-0.07735757	No	
+row_7	STX4	STX4	syntaxin 4 [Source:HGNC Symbol;Acc:HGNC:11439]	186	2.0	-0.025449973	No	
+row_8	F8	F8	coagulation factor VIII [Source:HGNC Symbol;Acc:HGNC:3546]	192	-2.0199999809265137	0.009794567	No	
+row_9	PARD3	PARD3	par-3 family cell polarity regulator [Source:HGNC Symbol;Acc:HGNC:16051]	207	-2.049999952316284	0.014889886	No	
+row_10	PLCB4	PLCB4	phospholipase C beta 4 [Source:HGNC Symbol;Acc:HGNC:9059]	209	-2.059999942779541	0.06491828	No	
+row_11	ATM	ATM	ATM serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:795]	221	-2.0999999046325684	0.08162057	No	
+row_12	KIF14	KIF14	kinesin family member 14 [Source:HGNC Symbol;Acc:HGNC:19181]	241	-2.1700000762939453	0.07264821	No	
+row_13	FKBP1A	FKBP1A	FKBP prolyl isomerase 1A [Source:HGNC Symbol;Acc:HGNC:3711]	271	-2.430000066757202	0.03605959	No	
+row_14	CENPF	CENPF	centromere protein F [Source:HGNC Symbol;Acc:HGNC:1857]	290	-2.9800000190734863	0.05154623	No	

@@ -1,0 +1,7 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	AGT	AGT	angiotensinogen [Source:HGNC Symbol;Acc:HGNC:333]	163	2.049999952316284	-0.39711368	Yes	
+row_1	PARD3	PARD3	par-3 family cell polarity regulator [Source:HGNC Symbol;Acc:HGNC:16051]	207	-2.049999952316284	-0.39422736	Yes	
+row_2	TGFBR1	TGFBR1	transforming growth factor beta receptor 1 [Source:HGNC Symbol;Acc:HGNC:11772]	235	-2.130000114440918	-0.33230153	Yes	
+row_3	APC	APC	APC regulator of WNT signaling pathway [Source:HGNC Symbol;Acc:HGNC:583]	259	-2.299999952316284	-0.24491686	Yes	
+row_4	CDH10	CDH10	cadherin 10 [Source:HGNC Symbol;Acc:HGNC:1749]	277	-2.5	-0.12326684	Yes	
+row_5	DSP	DSP	desmoplakin [Source:HGNC Symbol;Acc:HGNC:3052]	291	-2.990000009536743	0.046666585	Yes	

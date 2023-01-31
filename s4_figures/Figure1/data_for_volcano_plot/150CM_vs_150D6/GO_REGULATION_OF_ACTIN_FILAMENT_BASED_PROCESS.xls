@@ -1,0 +1,8 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	BAIAP2	BAIAP2	BAR/IMD domain containing adaptor protein 2 [Source:HGNC Symbol;Acc:HGNC:947]	24	1.7200000286102295	0.10112803	No	
+row_1	TRPM4	TRPM4	transient receptor potential cation channel subfamily M member 4 [Source:HGNC Symbol;Acc:HGNC:17993]	80	1.2899999618530273	0.054050468	No	
+row_2	BST2	BST2	bone marrow stromal cell antigen 2 [Source:HGNC Symbol;Acc:HGNC:1119]	89	1.25	0.15891297	No	
+row_3	TGFBR1	TGFBR1	transforming growth factor beta receptor 1 [Source:HGNC Symbol;Acc:HGNC:11772]	233	-1.090000033378601	-0.20155388	Yes	
+row_4	FMN1	FMN1	formin 1 [Source:HGNC Symbol;Acc:HGNC:3768]	247	-1.1299999952316284	-0.12592095	Yes	
+row_5	RND3	RND3	Rho family GTPase 3 [Source:HGNC Symbol;Acc:HGNC:671]	287	-1.4500000476837158	-0.10301798	Yes	
+row_6	DSP	DSP	desmoplakin [Source:HGNC Symbol;Acc:HGNC:3052]	292	-1.5800000429153442	0.049833886	Yes	
