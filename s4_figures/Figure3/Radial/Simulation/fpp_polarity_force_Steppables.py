@@ -21,6 +21,8 @@ force_strenth_max = 150
 rac_x = 30.
 rac_thre = 40. # protrusion force threshold
 
+repeat_inx = 13
+
 def normalize(v):
     norm = np.linalg.norm(v)
     if norm == 0:

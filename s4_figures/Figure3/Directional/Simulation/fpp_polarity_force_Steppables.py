@@ -2,7 +2,7 @@ from cc3d.core.PySteppables import *
 import numpy as np
 import pandas as pd
 from scipy.spatial import distance
-re = 14.0
+
 # invariant
 relax_step = 120
 switch_step = 210
@@ -20,6 +20,8 @@ force_strenth_max = 300
 
 rac_x = 30.
 rac_thre = 40. # protrusion force threshold
+
+repeat_inx = 1
 
 def normalize(v):
     norm = np.linalg.norm(v)
